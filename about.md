@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Hi, I'm Igor
 permalink: /about/
 ---
 
-Some information about you!
+My name is Igor Kondrasovas. I'm a software developer, teacher and speaker. I work out of my home office in Porto, Portugal at Otimize Nesting. I blog about technolgy, culture, entrepreneurship, gadgets, food and and places.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+If you just want to email me, go ahead send an lett's talk.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[igor@otimizenesting.com](mailto:igor@otimizenesting.com)
