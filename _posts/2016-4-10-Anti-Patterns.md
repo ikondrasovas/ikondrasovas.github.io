@@ -5,7 +5,7 @@ title: Books you never read but you know the content!
 
 Got these incredible book covers from "O RLY?" from [@ThePracticalDev](https://twitter.com/ThePracticalDev).
 
-Sometime I fell they are my bed books!
+Sometimes I feel these are my bed books!
 
 ![_config.yml]({{ site.baseurl }}/images/rewriting_front_end_every_six_weeks.jpg)
 *This time you have definetly chosen the right libraries and build tools*
