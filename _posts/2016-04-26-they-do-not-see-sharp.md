@@ -1,13 +1,8 @@
 ---
 layout: post
-title: Why do Java?
+title: Why do Java developers wear glasses?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Because they don't C#
 
 ![_config.yml]({{ site.baseurl }}/images/20120415_015313000_iOS.jpg)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
-
-![_config.yml]({{ site.baseurl }}/_posts/20120415_015313000_iOS.jpg)
