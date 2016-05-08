@@ -39,8 +39,7 @@ disqus: disqus_7CeRgmnYkL
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-# Got from http://www.seanbuscay.com/blog/jekyll-teaser-pager-and-read-more/
-excerpt_separator: "aabbcc"
+
 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
