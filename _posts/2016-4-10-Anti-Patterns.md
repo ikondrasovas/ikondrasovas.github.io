@@ -10,7 +10,7 @@ Sometimes I feel these are my bed books!
 ![_config.yml]({{ site.baseurl }}/images/rewriting_front_end_every_six_weeks.jpg)
 *This time you have definetly chosen the right libraries and build tools*
 
-
+aabbcc
 
 ![_config.yml]({{ site.baseurl }}/images/temporary_workarounds.jpg)
 *Who are you kidding?*
