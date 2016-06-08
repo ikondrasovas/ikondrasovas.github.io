@@ -32,11 +32,11 @@ To acomplish this, we based on this article: [Creating a Windows Store App NuGet
 We had to make three things to make it work:
 1- Inlude the "build" folder on the package with the structure presented in the following image.
 
-![build folder](BuildFolder.png "Build Folder")
+![build folder](..\images\2016-06-08-Creating Nuget Package\BuildFolder.png "Build Folder")
 
  Then we must include the specific platform libraries on each created folder. like the following image:
 
- ![build folder](x64BuildFolder.png "x64 Build Folder")
+ ![build folder](..\images\2016-06-08-Creating Nuget Package\x64BuildFolder.png "x64 Build Folder")
 
 2 - Import MSBuild props file into project
 When the package is ready, visual studio must add a reference for the correct library on the project "References" node. As both libraries (x86 and x64) cannot co exist in the project, we must change the .csproj file to include conditionaly references, based on the chosen platform version.
@@ -77,7 +77,7 @@ As this library do not work with AnyCPU platform compilation, we must alert duri
 
 Altought the convention states that libraries should be placed on the "lib" folder of the package, we cannot adopt this approach, since we cannot have both libraries added at the project references node at the same time. But, if your .dlls have the same name, one thing you can try is to include the "references" node on the nuspec file so you can explicity specify what libraries should go on the project "references" node, no matter what you have on the "lib" folder:
  
- ![References Node](referencesNode.png "References Node")
+ ![References Node](..\images\2016-06-08-Creating Nuget Package\referencesNode.png "References Node")
 
 Maybe this works for you. [Please check this forum thread about this issue](http://stackoverflow.com/questions/10198428/nuget-where-to-place-dlls-for-unmanaged-libraries). It was originally written to deal un managed / unmanaged scenarios, but it worth a try.
 
@@ -130,7 +130,7 @@ We started creating packages using the [NuGet Package Explorer](https://github.c
 Before publishing your created package into a public gallery, like [NugGet Gallery](http://nuget.org/) you can locally "publish" your package so it is available for other projects to consumeit.
 All you need to do is go to tools->NuGet Package Manager->Package Manager Settings and create a new package source, like the following image:
 
- ![Package Source](PackageSource.png "Package Source")
+ ![Package Source](..\images\2016-06-08-Creating Nuget Package\PackageSource.png "Package Source")
 
 ## References
 1 - [Creating a single NuGet package containing x86, x64 and ARM binaries](https://wpfspark.wordpress.com/2016/01/21/wpfspark-uwp-creating-a-single-nuget-package-containing-x86-x64-and-arm-binaries/)
