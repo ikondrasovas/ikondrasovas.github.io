@@ -1,6 +1,7 @@
-Ready To Deploy
+Integration Test
 ====================
 
-Unit tests are OK, let's deploy it!
+Unit tests are OK, let's go to integration tests!
 
-[Deploy]: https://media.giphy.com/media/3o6gDPOfndHP6v5tpS/giphy.gif "Deploy!"
+![Ready to Deploy](https://media.giphy.com/media/3o6gDPOfndHP6v5tpS/giphy.gif)
+
