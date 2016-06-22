@@ -11,7 +11,7 @@ The files copied must be specified using minimatch pattern. AS far I understand 
 
 ![_config.yml](..\images\minimatch.jpg)
 
-![Minimatch is cool]({{ site.baseurl }}/images/minimatch.png)
+![Minimatch](..\images\minimatch.jpg)
 
 The way I see, I cannot define a minimatch pattern on cURL task that will upload files to my ftp server while keeping the file/folder structure.
 
