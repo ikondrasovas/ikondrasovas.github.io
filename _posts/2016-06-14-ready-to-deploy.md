@@ -1,5 +1,7 @@
-Integration Test
-====================
+---
+layout: post
+title: Integration Test
+---
 
 Unit tests are OK, let's go to integration tests!
 
