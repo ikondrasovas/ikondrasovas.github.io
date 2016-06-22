@@ -9,7 +9,7 @@ One of the tasks I tried using on the build definition was a [cURL Upload Files]
 
 The files copied must be specified using minimatch pattern. AS far I understand this is a minimal matching utility and is the de-facto file matching library used internally by node/npm and many node-based projects.
 
-![I see patterns!](C:\Users\Igor\Source\Repos\ikondrasovas.github.io\images\minimatch.jpg)
+![_config.yml](..\images\minimatch.jpg)
 
 
 The way I see, I cannot define a minimatch pattern on cURL task that will upload files to my ftp server while keeping the file/folder structure.
