@@ -4,10 +4,6 @@ title: Hi, I'm Igor
 permalink: /about/
 ---
 
-My name is Igor Kondrasovas. I am a software engineer, entrepreneur and speaker. I work out of my home office in Porto, Portugal at Otimize Nesting. I blog and curate interesting things about technology, culture, entrepreneurship, gadgets, food and places.
+My name is Igor Kondrasovas. I am a software engineer and entrepreneur in training. I work out of my home office in [Porto](http://www.cm-porto.pt/cidade), Portugal at [Otimize Nesting](http://www.otimizenesting.com). I blog about things I am experiencing and hopefully worth sharing.
 
-If you just want to email me, go ahead and let's talk.
-
-### Contact me
-
-[igor@otimizenesting.com](mailto:igor@otimizenesting.com)
+If you just want to contact me, go ahead!.
