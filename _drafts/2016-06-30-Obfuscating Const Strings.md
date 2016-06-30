@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Obfuscating Const Strings
+published: true
 ---
 
 How we can hide a const string containing sensitive data?
@@ -24,4 +25,3 @@ We could use a [substitution cypher](https://en.wikipedia.org/wiki/Substitution_
 
 #Testing
 In case we choose an Obfuscation tool it is important to test if it works properly on const strings. There may be some cases [like this one](http://stackoverflow.com/questions/20053539/should-hasp-vendor-code-be-encrypted-obfuscated) reporting problems while using Enveloping.
-
