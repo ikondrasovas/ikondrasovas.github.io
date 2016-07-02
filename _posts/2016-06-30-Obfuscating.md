@@ -12,7 +12,7 @@ A couple of time ago, I had to hide a kind of authorization code residing in a .
 
 Encrypting the information is something that comes over the table, but if we use it, we still have to store the key and we go back to the original problem, how to keep that key safe.
 
-The way I see, there are two choices:
+The way I see, there are two choices
 * Secure the key
 * Secure the decryption algorithm
 
@@ -20,7 +20,7 @@ But if we must embed both in our library, the alternative is [security through o
 
 We could use a [substitution cypher](https://en.wikipedia.org/wiki/Substitution_cipher) or mathematical operation. I read many people bleaming such approaches, with the argument they are not safe and should not be even considered. In my opnion, security is like quality. High quality or low quality depends on the final usage.
 
-#Obfuscators
+##Obfuscators
 
 ![Obfuscators](..\images\obfuscation.jpg)
 
