@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Obfuscating Const Strings
+title: Obfuscating
 published: true
 ---
 
-How we can hide a const string containing sensitive data?
+Most of business applications contain sensitive data How we can hide a const string containing sensitive data?
 
 #Introduction
 
