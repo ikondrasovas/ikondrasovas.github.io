@@ -4,11 +4,11 @@ title: Obfuscating
 published: true
 ---
 
-Most of business applications contains, at some level, intelectual property it is important to pretect. The resulting from long hour of work is something we should value and keep as an strategic asset.
+Most of business applications has, at some level, intellectual property it is important to protect. The resulting from long hour of work is something we should value and keep as an strategic asset.
 
-.NET Framework platform has some great cross-platform capabilities but they come with a cost. Reverse engineering application data seems not to be that hard (altought I never wasted my time trying to tamper any assembly). 
+.NET Framework platform has some great cross-platform capabilities but they come with a cost. Reverse engineering application data seems not to be that hard (although I never wasted my time trying to tamper any assembly). 
 
-A couple of time ago, I had to hide a kind of authorization code residing in a .NET class library. And the question that came was how to keep that inormation safe.
+A couple of time ago, I had to hide a kind of authorization code residing in a .NET class library. And the question that came was how to keep that information safe.
 
 Encrypting the information is something that comes over the table, but if we use it, we still have to store the key and we go back to the original problem, how to keep that key safe.
 
@@ -21,7 +21,7 @@ The way I see, there are two choices:
 
 But if we must embed both in our library, the alternative is [security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity), meaning we must find a clever way to hide either or both inside our library.
 
-We could use a [substitution cypher](https://en.wikipedia.org/wiki/Substitution_cipher) or mathematical operation. I read many people bleaming such approaches, with the argument they are not safe and should not be even considered. In my opnion, security is like quality. High quality or low quality depends on the final usage.
+We could use a [substitution cypher](https://en.wikipedia.org/wiki/Substitution_cipher) or mathematical operation. I read many people blaming such approaches, with the argument they are not safe and should not be even considered. In my opinion, security is like quality. High quality or low quality depends on the final usage.
 
 ## Obfuscators
 
