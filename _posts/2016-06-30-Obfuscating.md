@@ -13,6 +13,8 @@ A couple of time ago, I had to hide a kind of authorization code residing in a .
 Encrypting the information is something that comes over the table, but if we use it, we still have to store the key and we go back to the original problem, how to keep that key safe.
 
 The way I see, there are two choices:
+
+
 - Secure the key
 - Secure the decryption algorithm
 
