@@ -9,7 +9,7 @@ Even if the person you expose the problem has nothing to do with it or even does
 
 Nothing better than embrace this so frequent pattern to solve complex problems, right? Yes, but you are not supposed to bother your coworkers every time, since they have their own stuff to do. 
 
-This is where the rubber duck comes in place. The debugging practice involves using a rubber duck to explain what your are planning to do, why things are not working as expected etc.
+This is where the [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) comes in place. The debugging practice involves using a rubber duck to explain what your are planning to do, why things are not working as expected etc.
 
 ![Rubber Duck](..\images\Rubber_duck_assisting_with_debugging.jpg)
 
