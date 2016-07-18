@@ -1,3 +1,6 @@
+---
+published: false
+---
 Nuget Package Creation
 ====================
 
@@ -31,6 +34,7 @@ To acomplish this, we based on this article: [Creating a Windows Store App NuGet
 
 We had to make three things to make it work:
 1- Inlude the "build" folder on the package with the structure presented in the following image.
+
 
 ![build folder](..\images\2016-06-08-Creating Nuget Package\BuildFolder.png "Build Folder")
 
