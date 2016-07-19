@@ -77,7 +77,7 @@ kramdown:
 prose:
   rooturl: '_posts'
   siteurl: 'http://www.igorkondrasovas.com'
-  media: 'media'
+  media: 'images'
 
 # Set the Sass partials directory, as we're using @imports
 sass:
