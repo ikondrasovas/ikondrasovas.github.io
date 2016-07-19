@@ -1,3 +1,6 @@
+---
+published: false
+---
 Continuous Deployment of ClickOnce Binaries from a WPF Application
 ====================
 
