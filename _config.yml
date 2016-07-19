@@ -64,6 +64,11 @@ kramdown:
     # Use existing pygments syntax highlighting css 
     css_class: 'highlight' 
 
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://www.igorkondrasovas.com'
+  media: 'media'
+
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
