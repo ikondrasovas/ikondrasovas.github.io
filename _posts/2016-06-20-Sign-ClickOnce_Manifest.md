@@ -26,4 +26,10 @@ According to [this reference](https://msdn.microsoft.com/en-us/library/xc3tc5xx.
 It seems cURL [is not capable of managing](http://stackoverflow.com/questions/35149497/tfs-2015-build-vnext-curl-ftp-upload-buggy-or-difficult-to-use) files and folder with spaces. And we do have such scenario because the clickonce deployment files and folders like "Application Files". 
 I also found an article entitled [ClickOnce From Azure Blob Storage](http://jake.ginnivan.net/clickonce-from-azure-blob-storage/) that gives good examples of msbuild targets to do assembly generation, signing and publishing. There is a link to the entire script we can use as a reference.
 
+## 07/20/2016
 
+Regarding automatic ClickOnce installer, how can we automatically increment the version number after each build on our build task on Visual Studio Team Service?
+
+http://publicvoidlife.blogspot.de/2014/05/continuous-integration-with-tfs-and.html?showComment=1441022327672
+
+The approach on the referenced article relies on using the changeset as the verion change increment. We must study how to include this on msbuild on team services.
