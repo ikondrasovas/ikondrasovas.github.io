@@ -25,3 +25,6 @@ According to [this reference](https://msdn.microsoft.com/en-us/library/xc3tc5xx.
 
 It seems cURL [is not capable of managing](http://stackoverflow.com/questions/35149497/tfs-2015-build-vnext-curl-ftp-upload-buggy-or-difficult-to-use) files and folder with spaces. And we do have such scenario because the clickonce deployment files and folders like "Application Files". 
 I also found an article entitled [ClickOnce From Azure Blob Storage](http://jake.ginnivan.net/clickonce-from-azure-blob-storage/) that gives good examples of msbuild targets to do assembly generation, signing and publishing. There is a link to the entire script we can use as a reference.
+
+## 07/20/2016
+
