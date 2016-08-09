@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## MVVM Light assembly conflict with Microsoft.Practices.ServiceLocation
+## MVVM Light conflict with ServiceLocation
 
 After downgrading my WPF business application from .NET 4.5 to 4.0 we experienced a conflict Similar to what was reported on [this thread](http://stackoverflow.com/questions/14791089/mvvm-light-assembly-conflict-with-microsoft-practices-servicelocation). When I tried to install the application (using ClickOnce) the following error was shown:
 
