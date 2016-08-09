@@ -15,7 +15,7 @@ This means our application depends on different binaries when it runs on Windows
 
 ![Conflict](..\images\dll-hell.jpg)
 
-Digging on the net, I discovered [.NET 4.0 has a known bug](https://social.msdn.microsoft.com/Forums/vstudio/en-US/629d5524-c8db-466f-bc27-0ced11b441ba/taskcontinuewith-from-wcf-client-call-has-no-synchronizationcontext?forum=wcf) around keeping synchronization context when using `TaskScheduler.FromCurrentSynchronizationContext()`.
+Digging on the net, I discovered [.NET 4.0 has a known bug](https://social.msdn.microsoft.com/Forums/vstudio/en-US/629d5524-c8db-466f-bc27-0ced11b441ba/taskcontinuewith-from-wcf-client-call-has-no-synchronizationcontext?forum=wcf) around keeping synchronization context when using `TaskScheduler.FromCurrentSynchronizationContext`.
 
 So in order to fix it, I adopted [Steven S. solution](http://stackoverflow.com/questions/4659257/how-can-synchronizationcontext-current-of-the-main-thread-become-null-in-a-windo) on this thread. Basically we keep a `TaskScheduler` reference of the main UI thread synchronization context and use to communicate with it from long running async operations, like `Task.ContinueWith` methods.  
 
