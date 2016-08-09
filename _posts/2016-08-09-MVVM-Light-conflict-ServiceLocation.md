@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## MVVM Light assembly conflict with Microsoft.Practices.ServiceLocation
 
