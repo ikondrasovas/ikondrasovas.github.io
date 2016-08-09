@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Task.ContinueWith Has no Synchronization Context
+title: Synchronization Context on .NET 4.0
 ---
 
 Similar to my [previous post](2016-08-09-MVVM-Light-conflict-ServiceLocation.md), we experienced another issue in result of downgrading our WPF business application from .NET 4.5 to 4.0.
