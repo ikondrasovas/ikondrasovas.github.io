@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 ## MVVM Light conflict with ServiceLocation
 
