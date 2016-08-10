@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Synchronization Context on .NET 4.0
+published: true
 ---
 
 Similar to my [previous post]({% post_url 2016-08-09-MVVM-Light-conflict-ServiceLocation %}), we experienced another issue in result of downgrading our WPF business application from .NET 4.5 to 4.0.
@@ -20,6 +21,3 @@ Digging on the net, I discovered [.NET 4.0 has a known bug](https://social.msdn.
 So in order to fix it, I adopted [Steven S. solution](http://stackoverflow.com/questions/4659257/how-can-synchronizationcontext-current-of-the-main-thread-become-null-in-a-windo) on this thread. Basically we keep a `TaskScheduler` reference of the main UI thread synchronization context and use to communicate with it from long running async operations, like `Task.ContinueWith` methods.  
 
 This seems to fix the problem and works in both .NET 4.0 and 4.5.
-
-
- 
