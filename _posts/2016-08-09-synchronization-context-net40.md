@@ -8,6 +8,8 @@ Similar to my [previous post]({% post_url 2016-08-09-MVVM-Light-conflict-Service
 
 The problem happens only when the application runs on Windows XP (which supports up to .NET 4.0). Although the solution is targeted to .NET 4.0 and should behave the same way no matter is the operating system version, there is a difference when you run the application on a system with .NET 4.5.
 
+![189468_10150124526629065_4695927_n.jpg]({{site.baseurl}}/images/189468_10150124526629065_4695927_n.jpg)
+
 ![Conflict](..\images\in-place-upgrade-net45.png)
 
 As you can see on the previous image, [.NET 4.5 is an in-place upgrade to .NET 4.0](http://www.hanselman.com/blog/NETVersioningAndMultiTargetingNET45IsAnInplaceUpgradeToNET40.aspx), so the binaries for .NET 4.0 are replaced when 4.5 is installed.
