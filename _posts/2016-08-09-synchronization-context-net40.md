@@ -10,6 +10,8 @@ The problem happens only when the application runs on Windows XP (which supports
 
 ![Conflict]({{site.baseurl}}/images/in-place-upgrade-net45.png)
 
+![Conflict](../images/in-place-upgrade-net45.png)
+
 As you can see on the previous image, [.NET 4.5 is an in-place upgrade to .NET 4.0](http://www.hanselman.com/blog/NETVersioningAndMultiTargetingNET45IsAnInplaceUpgradeToNET40.aspx), so the binaries for .NET 4.0 are replaced when 4.5 is installed.
 
 This means our application depends on different binaries when it runs on Windows XP from newer operating systems.
