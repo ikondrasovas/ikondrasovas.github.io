@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Synchronization Context on .NET 4.0
+title: Exception During Collection Remove
 published: true
 ---
 
