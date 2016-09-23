@@ -4,4 +4,4 @@ title: Fixing a Bug in Production
 published: true
 ---
 
-![Fixing a Bug in Production](../images/FixingBugProduction.png)
+![Fixing a Bug in Production](../images/FixingBugProduction.gif)
