@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Disk is Like Jesus
+title: Floppy Disks are Like Jesus
 published: true
 ---
 
-![Fixing a Bug in Production](../images/disksarelikejesus.jpg)
+![Floppy Disks are Like Jesus](../images/disksarelikejesus.jpg)
