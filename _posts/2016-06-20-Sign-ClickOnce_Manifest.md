@@ -33,3 +33,11 @@ Regarding automatic ClickOnce installer, how can we automatically increment the 
 http://publicvoidlife.blogspot.de/2014/05/continuous-integration-with-tfs-and.html?showComment=1441022327672
 
 The approach on the referenced article relies on using the changeset as the verion change increment. We must study how to include this on msbuild on team services.
+
+## 01/26/2017
+After the expiration of my code signing certificate, Visual Studio was not longer able to run the following command:
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Error		The command ""C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\signtool.exe" sign /f "Otimize.pfx" /p #Tucano,79 /v "C:\Users\Igor\Source\Workspaces\OtimizeTrueShapeNesting\ClientApp\feature\PartListDataGrid\SuperNestingClient\obj\Debug\OtimizeNestingClient.exe"" exited with code 1.	SuperNestingClient	C:\Users\Igor\Source\Workspaces\OtimizeTrueShapeNesting\ClientApp\feature\PartListDataGrid\SuperNestingClient\SuperNestingClient.csproj	737	
+
+I think we can use exactly this command on the build automation task to properly sign my assemblies
