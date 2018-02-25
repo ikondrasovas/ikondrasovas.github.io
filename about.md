@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Hi, I'm Igor
+title: Olá, eu sou o Igor
 permalink: /about/
 ---
 
-My name is Igor Kondrasovas. I am a Software Engineer. I currently live in [Waldbronn](http://www.waldbronn.de), Germany. I blog about things I am experiencing and hopefully worth sharing.
+Meu nome é Igor Kondrasovas. Sou desenvolvedor de software. Atualmente moro em [Waldbronn](http://www.waldbronn.de), Alemanha. Escrevo sobre as coisas que não gostaria de esquecer.
 
-If you just want to contact me, go ahead!.
+Se você gostaria de entrar em contato, vá em frente!
