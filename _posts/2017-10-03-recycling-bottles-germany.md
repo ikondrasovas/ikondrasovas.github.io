@@ -4,7 +4,7 @@ title: Recycling Glass Bottles in Germany
 published: true
 ---
 
-So I just bottle a pack of beers from [Stöertbeker](https://www.stoertebeker.com/) and now I am wondering how to recycle them, if possible.
+So I just bought a pack of beers from [Stöertbeker](https://www.stoertebeker.com/) and now I am wondering how to recycle them, if possible.
 
 Recently I went back to the market where there is a coffee shop where I was having a *MilchCafe* while observing how people were doing. I ended up having a clue about how it works. Although I have seems guys with packs of 10 or more beers putting all bottles in the bottom part of the machine. Did not realize how it works. Let me just check on the internet for more details while testing a Pilsner, of course.
 
