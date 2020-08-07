@@ -6,12 +6,14 @@ published: true
 
 ![Floppy Disks are Like Jesus](../images/disksarelikejesus.jpg)
 
-I remember when I was teaching Introduction to Informatics discipline to Production Engineering students at [UDESC](https://joinville.udesc.br). One day I asked:
+I remember when I was teaching the disciple of "Introduction to Informatics" to Production Engineering students at [UDESC](https://joinville.udesc.br). One day I asked:
 
 Why the local disk you have in your PC is named as "C:"? Why not "A:" or "B:"?
 
-I received no answer back, so then I had to tell them about floppy disks. I am wondering if this generation (and newer ones) had ever asked themselves why this weird symbol is used to save documents?
+As I got no answer back, I told them about floppy disks.
 
-If good icons are known to be good metaphors for real or physical things most of the times, then maybe this will break the rule and just be like it is for "historical reasons".
+I am wondering if this generation (and the newer ones) had ever asked themselves why this weird symbol is used to save documents?
+
+Icons are known to be good when they represent metaphors for concrete objects. If this is true, then I guess we may include "historical reasons" to the list.
 
 PS: Maybe some asks about why not A or B in the comments.
