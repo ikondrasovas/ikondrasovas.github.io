@@ -18,7 +18,7 @@ My point is that we may be missing a good opportunity to insert a good team prac
 
 Can we still count on traditional manual testers and apply TDD principles?
 
-![Tester. I found a defect today.](../images/tddtesters.jpg)
+![Tester, I found a defect today.](../images/tddTesters.jpg)
 
 What if, as soon a user story starts (or an accelerator), developer and tester work in parallel?
 
