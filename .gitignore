@@ -9,3 +9,4 @@ Gemfile.lock
 node_modules
 package.json
 /.vs/slnx.sqlite
+.jekyll-cache

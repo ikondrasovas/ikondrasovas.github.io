@@ -6,7 +6,9 @@
 name: Igor Kondrasovas
 
 # Short bio or description (displayed in the header)
-description: Helping teams get productive, cut waste, and deliver great software.
+description:
+  en: Helping teams get productive, cut waste, and deliver great software.
+  pt: Ajudando equipes a serem produtivas, eliminar desperdício e entregar software de qualidade.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/6977172?v=3
@@ -83,3 +85,19 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+   
+t:
+  en:
+    home:
+      name: "Home"
+      url: "/"    
+    blog:
+      name: "Blog"
+      url: "/blog/"
+  pt:
+    home:
+      name: "Inicio"
+      url: "/inicio/"
+    blog:
+      name: "Blogue"
+      url: "/blogue/"

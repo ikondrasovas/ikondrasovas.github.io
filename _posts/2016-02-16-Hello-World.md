@@ -1,6 +1,8 @@
 ---
 layout: post
 title: There is no place like 127.0.0.1!
+lang: en
+ref: hello
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
