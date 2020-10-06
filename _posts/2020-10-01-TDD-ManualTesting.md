@@ -2,6 +2,8 @@
 layout: post
 title: Can TDD be Used in Manual Testing?
 published: true
+lang: en
+ref: tddmanual
 ---
 
 Sure. But I still think any manual testing script is a technical debt. Please tell me I am wrong.

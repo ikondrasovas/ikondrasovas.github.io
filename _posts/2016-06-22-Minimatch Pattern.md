@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Minimatch Pattern
+lang: en
+ref: minimatch
 ---
 
 First time I saw the term [minimatch pattern](https://github.com/isaacs/minimatch) was during this wee while trying to set Continuous Deployment on Visual Studio Team Services for a WPF application that must be deployed using ClickOnce.

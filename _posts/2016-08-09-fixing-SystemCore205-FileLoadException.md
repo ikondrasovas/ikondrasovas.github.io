@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Fixing System.Core 2.0.5.0 FileLoadException
+lang: en
+ref: systemcore
 ---
 
 Similar to my [previous post]({% post_url 2016-08-09-MVVM-Light-conflict-ServiceLocation %}), we experienced another issue in result of downgrading our WPF business application from .NET 4.5 to 4.0.

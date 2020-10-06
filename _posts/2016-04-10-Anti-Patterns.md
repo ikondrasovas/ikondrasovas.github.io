@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Books you never read but you know the content!
+lang: en
+ref: booksneverread
 ---
 
 Got these incredible book covers from "O RLY?" from [@ThePracticalDev](https://twitter.com/ThePracticalDev). In fact, you can create your own book covers using the [O RLY Theck Book Cover Generator](http://orly.coloncapitalp.com/).

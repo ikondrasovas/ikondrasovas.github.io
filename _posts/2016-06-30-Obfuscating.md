@@ -2,6 +2,8 @@
 layout: post
 title: Obfuscating
 published: true
+lang: en
+ref: obfuscating
 ---
 
 Most of business applications has, at some level, intellectual property it is important to protect. The resulting from long hour of work is something we should value and keep as an strategic asset.

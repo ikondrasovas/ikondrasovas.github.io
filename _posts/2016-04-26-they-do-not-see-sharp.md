@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Why do Java developers wear glasses?
+lang: en
+ref: donotseesharp
 ---
 
 Because they don't C#

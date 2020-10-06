@@ -2,6 +2,8 @@
 layout: post
 title: Spline to Polyline Converter
 published: false
+lang: en
+ref: splinetopoliline
 ---
 
 The [best book](https://pomax.github.io/bezierinfo/) I know about Bézier Curves is free and online. It is interactive and well explained, since the introduction.

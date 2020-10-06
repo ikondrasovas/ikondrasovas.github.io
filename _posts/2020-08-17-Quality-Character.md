@@ -2,6 +2,8 @@
 layout: post
 title: About Automated Testing and Ketchup Bottles
 published: true
+lang: en
+ref: automatedtestingketchuup
 ---
 
 ![Sometimes a Ketchup bottle can bring some insights to your life.](../images/HeinzKetchup.jpg)

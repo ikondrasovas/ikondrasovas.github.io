@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Rubber Duck Design
+lang: en
+ref: rubberduck
 ---
 
 You probably already experienced a situation where your were stuck in the middle of a complex algorithm or something that was not working as expected and then while you are explaining this problem to someone else everything becomes clear and you find a solution straight away.
