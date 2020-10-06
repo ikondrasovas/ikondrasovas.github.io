@@ -2,7 +2,7 @@
 layout: post
 title: Suporte Multilíngue no Jekyll
 published: true
-lang: en
+lang: pt
 ref: jekyllmultilingual
 ---
 
