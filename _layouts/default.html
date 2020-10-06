@@ -40,19 +40,15 @@
 
     
     <div id="main" role="main" class="container">
-      <ul>
         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
         {% for post in posts %}
-          <li>
             <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-          </li>
         {% endfor %}
         
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
         {% for page in pages %}
             <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
         {% endfor %}
-        </ul>      
       {{ content }}
     </div>
 
